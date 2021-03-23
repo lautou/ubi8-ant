@@ -1,2 +1,2 @@
-FROM centos8
+FROM centos:centos8
 RUN yum -y install ant
