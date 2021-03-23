@@ -1,2 +1,2 @@
-FROM registry.redhat.io/ubi8
-RUN yum -y install ant-trax
+FROM centos8
+RUN yum -y install ant
